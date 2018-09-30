@@ -1,0 +1,162 @@
+/* Navbar */
+
+.nav-sticky.navbar-custom {
+    margin-top: 0px;
+    padding: 10px 0px;
+    background-color: #000;
+    color: #fff !important;
+}
+
+.nav-sticky .navbar-nav li a {
+    color: #fff !important;
+}
+
+.navbar-brand .logo,
+.nav-sticky.navbar-custom .logo,
+.nav-sticky.navbar-custom .navbar-toggles {
+    color: #fff !important;
+}
+
+/* backgrounds */
+
+.bg-light {
+	background: linear-gradient(to bottom,  #000, #fff);
+}
+
+.svg-white {
+  fill: url(#grad1);
+  }
+
+#plusde {
+	background-image: linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0));
+}
+
+#formation.section {
+	background: linear-gradient(to bottom,  #b7b7ba, #f8f9fa);
+}
+
+#certification.section, #experience.section  {
+	background: linear-gradient(to top, #b7b7ba, #f8f9fa);
+}
+
+#blog.section {
+	background: linear-gradient(to bottom,  #b7b7ba, #fff);
+}
+
+#about.section {
+	background: linear-gradient(to bottom,  #b7b7ba, #f8f9fa);
+}
+
+#work div.svg-top-container {
+    fill: #000 !important;
+}
+
+#experience div.svg-top-container {
+    fill: #f8f9fa !important;
+}
+#service div.svg-top-container {
+  fill: #000 !important;
+}
+
+
+.section.svg_enable {
+    display: block;
+    overflow: hidden;
+    background-color: #000;
+}
+
+section.bg-home div.shape {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 200px 4000px;
+    border-color: transparent transparent #b7b7ba transparent;
+    line-height: 0;
+}
+
+section.bg-testi div.shape {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 200px 4000px;
+    border-color: transparent transparent #b7b7ba transparent;
+    line-height: 0;
+}
+
+/* Titles */
+
+/*#about.section h2, #formation.section h2, #experience.section h2, #certification.section h2, #blog.section h2 */
+
+.section h2 {
+	color: #fff !important;
+}
+
+#about .section-sub-title {
+	/*text-shadow: 0 0 1px #000000 !important;*/
+}
+
+#experience.section h2, #certification.section h2 {
+	color: #222 !important;
+}
+
+/* Parcours */
+
+.timeline-page .timeline-item .event-description-right,
+.timeline-page .timeline-item .event-description-left {
+    -webkit-box-shadow: 0 5px 5px -5px rgba(0, 0, 0, 0.2);
+}
+ .timeline-page .timeline-item p {
+    color: rgba(0,0,0,0.8);
+}
+
+.timeline-item .btn-outline-white,
+.timeline-item .btn-outline-white.active,
+.timeline-item .btn-outline-white.focus,
+.timeline-item .btn-outline-white:active,
+.timeline-item .btn-outline-white:focus,
+.timeline-item .btn-outline-white:hover,
+.timeline-item .open > .dropdown-toggle.btn-outline-white {
+    background-color: rgba(255,255,255,0.6) !important;
+}
+
+
+/* Compétences */
+
+.progress  {
+    background-color: rgba(255,255,255,0.2);
+}
+
+.service-boxed  {
+    background-color: rgba(255,255,255,0.9);
+}
+
+/* Actus content */
+.blog-content {
+    background-color: rgba(255,255,255,0.7);
+}
+
+.post-desce p {
+	color: #222 !important;
+}
+
+/* Parcours */
+
+.timeline-page h4,.about-content h4 {
+	color:#222;
+}
+
+#work p, .timeline-page p, label {
+	color:rgba(255,255,255,0.7);
+}
+
+/* Portofolio */
+
+.container-filter li a, .categories {
+    color: #fff !important;
+}

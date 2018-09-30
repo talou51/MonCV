@@ -1,0 +1,117 @@
+/* Navbar */
+
+.nav-sticky.navbar-custom {
+  margin-top: 0px;
+  padding: 10px 0px;
+  background-color: #000;
+  color: #fff !important;
+}
+
+.nav-sticky .navbar-nav li a {
+  color: #fff !important;
+}
+
+.navbar-brand .logo,
+.nav-sticky.navbar-custom .logo,
+.nav-sticky.navbar-custom .navbar-toggles {
+  color: #fff !important;
+}
+
+/* backgrounds */
+
+.bg-light {
+  background-color: #000 !important;
+}
+
+#about.section, #formation.section, #experience.section, #certification.section, #blog.section  {
+  background-color: #222 !important;
+}
+
+.section h2 {
+  color: #fff !important;
+}
+
+#work div.svg-top-container {
+  fill: #000 !important;
+}
+
+#experience div.svg-top-container {
+  fill: #222 !important;
+}
+#service div.svg-top-container {
+  fill: #000 !important;
+}
+
+.svg-white {
+  fill: #222 !important;
+  stroke:#999;
+  stroke-width:0.2;
+}
+
+section.bg-home div.shape {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 0 200px 4000px;
+  border-color: transparent transparent #222 transparent;
+  line-height: 0;
+}
+
+section.bg-testi div.shape {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 0 200px 4000px;
+  border-color: transparent transparent #222 transparent;
+  line-height: 0;
+}
+
+/* Compétences */
+
+.progress  {
+  background-color: rgba(255,255,255,0.2);
+}
+
+.service-boxed  {
+  background-color: rgba(255,255,255,0.9);
+}
+
+.section.svg_enable {
+  display: block;
+  overflow: hidden;
+  background-color: #222;
+}
+
+/* Parcours */
+
+.timeline-page h4,.about-content h4 {
+  color:#FFF;
+}
+
+.timeline-page .timeline-item .event-description-right li,
+.timeline-page .timeline-item .event-description-left li,
+#blog p, #work p, .timeline-page p, .about-content p, label {
+  color:rgba(255,255,255,0.7);
+}
+
+.timeline-item .btn-outline-white,
+.timeline-item .btn-outline-white.active,
+.timeline-item .btn-outline-white.focus,
+.timeline-item .btn-outline-white:active,
+.timeline-item .btn-outline-white:focus,
+.timeline-item .btn-outline-white:hover,
+.timeline-item .open > .dropdown-toggle.btn-outline-white {
+  background-color: rgba(255,255,255,0.1) !important;
+}
+
+/* Portofolio */
+
+.container-filter li a, .categories {
+  color: #fff !important;
+}

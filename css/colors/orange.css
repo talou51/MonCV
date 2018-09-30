@@ -1,0 +1,64 @@
+.bg-custom,
+.under-line,
+.dot,
+.btn-custom,
+.timeline-page .timeline-item .date-label-left,
+.timeline-page .timeline-item .date-label-left::after,
+.timeline-page .timeline-item .duration-right,
+.timeline-page .timeline-item .duration-right::after,
+.container-filter li a.active,
+.timeline-page::after {
+    background-color:#ff6600;
+}
+
+.btn-custom {
+    border: 1px solid #ff6600;
+}
+
+.color-custom {
+    color: #ff6600 !important;
+}
+
+.border-custom {
+    border-color: #ff6600;
+}
+
+a.scroll-up:hover, a.scroll-down:hover,
+.navbar-custom .navbar-nav li.active a,
+.navbar-custom .navbar-nav li a:hover,
+.navbar-custom .navbar-nav li a:active {
+    color: 	#ff6600 !important;
+}
+
+.nav-sticky.navbar-custom .navbar-nav li.active a,
+.nav-sticky.navbar-custom .navbar-nav li a:hover,
+.nav-sticky.navbar-custom .navbar-nav li a:active {
+    color: #ff6600 !important;
+}
+
+.custom-form .form-control:focus {
+    border: 1px solid #ff6600 !important;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open > .dropdown-toggle.btn-custom {
+    background-color:#fa802e;
+    border-color:#fa802e;
+}
+
+::-webkit-scrollbar-thumb,
+.portfolio-items::-webkit-scrollbar-thumb {
+	background-color: #fa802e;
+}
+
+.icon-color1 {fill:#ff6600;}
+.icon-color2 {fill:#fa802e;}
+.icon-color3 {fill:#faae7c;}
+.icon-color4 {fill:#f9c9a9;}
