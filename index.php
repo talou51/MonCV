@@ -6,7 +6,6 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <title>Pascale SIMONNET - Développeuse Web & Multimedia</title>
   <meta name="description" content="Pascale SIMONNET - Développeuse Web & Multimedia - CV en ligne" />
-  <meta name="keywords" content="Développeur,Site Web,Web,Internet,Multimédia,PHP,HTML,HTML5,Canvas,CSS3,Bootstrap,jQuery,JavaSrcipt,MySQL,XML,SVG,Photoshop,Illustrator,Première" />
   <meta name="author" content="Pascale SIMONNET" />
 
   <link rel="shortcut icon" href="images/favicon.ico">
@@ -1521,7 +1520,7 @@
                     <p class="user-review text-light mt-3 pb-3"><i class="mbri-quote-left"></i>&nbsp;&nbsp;Whaou c'est beau&nbsp;! ... Sympa la timeline&nbsp;! "87600 tasses de café" LOOOL&nbsp;!</br>... T'as vraiment du talent&nbsp;!&nbsp;&nbsp;<i class="mbri-quote-right"></i></p>
                   </blockquote>
                 </div>
-                
+
                 <div class="text-center testi-box pb-3">
                   <img src="images/testi/femme.png" alt="" class="img-fluid rounded-circle mx-auto d-block " data-aos="fade-up">
                   <div class="text-center">
@@ -1571,13 +1570,38 @@
                   <div class="dot"></div>
                 </div>
               </div>
-              <p>Depuis mai 2018, je réalise également des sites Internet sur mon temps libre, en tant qu'auto-entrepreneuse ou en échange de service ou produit de valeur équivalente. N'hésitez pas à me contacter si vous avez un projet de site Web&nbsp;!</p>
+              <p>Depuis mai 2018, je réalise également des sites Internet sur mon temps libre (en Portage Salarial <a href="https://www.webportage.com/" class="color-custom" target="_blank">Webportage</a> ou en échange d'un produit ou service de valeur équivalente). N'hésitez pas à me contacter si vous avez un projet de site Web ou besoin de conseils pour optimiser un site existant (Référencement SEO, améliorations diverses, refonte...)&nbsp;!</p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-12 pb-1">
-            <div id="actus-carousel" class="owl-carousel owl-theme">
+          <div class="row">
+            <div class="col-lg-12 pb-1">
+              <div id="actus-carousel" class="owl-carousel owl-theme">
+
+                <div class="item">
+                  <div class="blog-box">
+                    <figure>
+                      <img src="images/blog/logos-montage.png" alt="" class="img-fluid">
+                    </figure>
+
+                    <div class="blog-content p-4">
+                      <a href="#">
+                        <h3 class="color-custom">Auto-formation & tests</h3>
+                      </a>
+                      <p class="text-muted blog-link pt-2">
+                        <span class="link-admin"><i class="mdi mdi-account"></i>&nbsp;par Pascale Simonnet</span>
+                        <span class="link-admin ml-2 color-custom"><i class="mdi mdi-calendar"></i>&nbsp;Septembre 2018</span>
+                      </p>
+                      <div class="post-desce">
+                        <p>Les éléments pour terminer le site de Créalys Design tardant à arriver, je profite de mon temps libre pour me former (langage SASS, Github, Vue.js, Leafleft...)</p>
+                        </div>
+                        <!--<div class="pt-3">
+                          <a href="http://pascale.simonnet.free.fr/CV/" class="btn-sm btn-custom" target="_blank">Voir le site</a>
+                        </div>-->
+                      </div>
+                    </div>
+                  </div>
+
               <div class="item">
                 <div class="blog-box">
                   <figure>
