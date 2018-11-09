@@ -6,6 +6,7 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <title>Pascale SIMONNET - Développeuse Web & Multimedia</title>
   <meta name="description" content="Pascale SIMONNET - Développeuse Web & Multimedia - CV en ligne" />
+  <meta name="keywords" content="Développeur,Site Web,Web,Internet,Multimédia,PHP,HTML,HTML5,Canvas,CSS3,Bootstrap,jQuery,UI Design,JavaSrcipt,MySQL,XML,SVG,Photoshop,Illustrator,Première" />
   <meta name="author" content="Pascale SIMONNET" />
 
   <link rel="shortcut icon" href="images/favicon.ico">
